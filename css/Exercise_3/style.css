@@ -1,0 +1,57 @@
+* {
+  background-color: rgb(84, 138, 238);
+  overflow: auto;
+  text-align: center;
+}
+
+.box {
+  width: 300px;
+  height: 235px;
+  background-color: white;
+  margin: auto;
+  border-radius: 10px;
+  position: relative;
+  margin-top: 10px;
+}
+
+.Login {
+  font: 1.8em sans-serif;
+  color: gray;
+  /* display: inline-block; */
+  background-color: white;
+  margin-bottom: 10px;
+}
+
+.form {
+  background-color: white;
+}
+
+.email {
+  background-color: rgb(241, 240, 240);
+  border: white;
+  font: 1rem sans-serif;
+  width: 200px;
+  height: 35px;
+  border-radius: 5px;
+}
+
+.pass {
+  background-color: rgb(241, 240, 240);
+  border: white;
+  font: 1rem sans-serif;
+  width: 200px;
+  height: 35px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.btn {
+  background-color: rgb(84, 138, 238);
+  font: 1rem sans-serif;
+  color: white;
+  border: white;
+  width: 200px;
+  height: 35px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
